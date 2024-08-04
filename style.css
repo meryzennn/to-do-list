@@ -89,8 +89,8 @@ body{
     font-weight: 400;
 }
 .task button{
-    background-color: #8052ec;
-    color: #FFFED3;
+    background-color: transparent;
+    color: #8052ec;
     height: 100%;
     width: 40px;
     border-radius: 5px;
